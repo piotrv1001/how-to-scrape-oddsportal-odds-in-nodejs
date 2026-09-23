@@ -1,0 +1,12 @@
+{
+  "name": "how-to-scrape-oddsportal-odds-in-nodejs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": {
+    "apify-client": "^2.15.1",
+    "dotenv": "^16.4.7"
+  },
+  "license": "MIT"
+}

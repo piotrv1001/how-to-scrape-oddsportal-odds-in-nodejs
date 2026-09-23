@@ -1,0 +1,38 @@
+[
+  {
+    "matchId": 7719161,
+    "eventId": "hnqjYTeK",
+    "league": "Premier League 2024/2025",
+    "homeTeam": "Southampton",
+    "awayTeam": "Arsenal",
+    "startTime": "2025-05-25T15:00:00.000Z",
+    "status": "Finished",
+    "result": "1:2",
+    "bookmakerCount": 12,
+    "odds": {
+      "home": { "average": 11.46, "highest": 12.2, "highestBookmaker": "1xBet", "bookmakerCount": 12 },
+      "draw": { "average": 6.41, "highest": 6.8, "highestBookmaker": "Stake.com", "bookmakerCount": 12 },
+      "away": { "average": 1.25, "highest": 1.28, "highestBookmaker": "1xBet", "bookmakerCount": 12 }
+    },
+    "bookmakerOdds": [
+      { "bookmakerId": 3, "bookmaker": "bet-at-home", "payout": 95.7, "home": 11, "draw": 6.5, "away": 1.25 },
+      { "bookmakerId": 16, "bookmaker": "bet365", "payout": 95.2, "home": 12, "draw": 6, "away": 1.25 }
+    ]
+  },
+  {
+    "matchId": 7719155,
+    "eventId": "pOnfE84l",
+    "league": "Premier League 2024/2025",
+    "homeTeam": "Manchester Utd",
+    "awayTeam": "Aston Villa",
+    "startTime": "2025-05-25T15:00:00.000Z",
+    "status": "Finished",
+    "result": "2:0",
+    "bookmakerCount": 12,
+    "odds": {
+      "home": { "average": 4.75, "highest": 5.21, "highestBookmaker": "GGBET", "bookmakerCount": 12 },
+      "draw": { "average": 4.29, "highest": 4.42, "highestBookmaker": "1xBet", "bookmakerCount": 12 },
+      "away": { "average": 1.67, "highest": 1.74, "highestBookmaker": "1xBet", "bookmakerCount": 12 }
+    }
+  }
+]
