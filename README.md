@@ -2,6 +2,8 @@
 
 This example calls the [OddsPortal Scraper](https://apify.com/piotrv1001/oddsportal-scraper) on Apify. It does not implement a scraper from scratch.
 
+![OddsPortal match results and bookmaker odds in the Apify Console](./oddsportal_odds_results.png)
+
 ## What this example does
 
 - Calls the Actor with `apify-client`
